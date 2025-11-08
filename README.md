@@ -109,6 +109,3 @@ With an increasing number of trials `n`, the **relative frequencies** approach t
 ## 👩‍💻 Author
 **Anastasia**  
 Educational project demonstrating random simulation and probability modeling in Java.
-
-# coin-dice-simulations
-# coin-dice-simulations
